@@ -1,0 +1,15 @@
+img{
+    height: auto;
+    width: 800px;
+}
+
+.main{
+    background-color: tan;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: brown;
+}
+
+li{
+    padding: 10px;
+}
